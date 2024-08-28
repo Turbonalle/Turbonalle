@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Currently studying in <a href="https://www.hive.fi/en/">Hive Helsinki</a><br>- Love creating in all kinds of forms<br>- Training maniac<br>- Would love to make games or create tools for educational purposes in the future (or why not mix them 😉)<br>- Love all kinds of puzzles (especially mathematic ones)</p>
+<p align="left">- Finished studies in <a href="https://www.hive.fi/en/">Hive Helsinki and now looking for an Internship / Junior Position</a><br>- Love creating in all kinds of forms<br>- Training maniac<br>- Would love to make games or create tools for educational purposes in the future (or why not mix them 😉)<br>- Love all kinds of puzzles (especially mathematic ones)</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- Got into coding when I heard about Hive Helsinki<br>- Learned basic logic in https://codingbat.com/java<br>- Finished Hive Piscine<br>- Did some webpage projects from https://50projects50days.com/<br>- Dabbled with CSS at https://cssbattle.dev/<br>- Got a solid base in C and C++ at Hive<br>- Doing the last project at Hive, creating a full-stack pong game. Learning things like Django and Three.js</p>
+<p align="left">- Got into coding when I heard about Hive Helsinki<br>- Learned basic logic in https://codingbat.com/java<br>- Finished Hive Piscine<br>- Did some webpage projects from https://50projects50days.com/<br>- Dabbled with CSS at https://cssbattle.dev/<br>- Got a solid base in C and C++ at Hive<br>- Finished the last project at Hive, creating a full-stack pong game.</p>
 
 ###
 
