@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Finished studies in <a href="https://www.hive.fi/en/">Hive Helsinki and now looking for an Internship / Junior Position</a><br>- Love creating in all kinds of forms<br>- Training maniac<br>- Would love to make games or create tools for educational purposes in the future (or why not mix them 😉)<br>- Love all kinds of puzzles (especially mathematic ones)</p>
+<p align="left">- Finished studies in <a href="https://www.hive.fi/en/">Hive Helsinki</a> and now looking for an Internship / Junior Position<br>- Love creating in all kinds of forms<br>- Training maniac<br>- Would love to make games or create tools for educational purposes in the future (or why not mix them 😉)<br>- Love all kinds of puzzles (especially mathematic ones)</p>
 
 ###
 
