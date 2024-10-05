@@ -32,7 +32,7 @@
   - Did some webpage projects from https://50projects50days.com/<br>
   - Dabbled with CSS at https://cssbattle.dev/<br>
   - Got a solid base in C and C++ at Hive<br>
-  - Finished the last project at Hive, creating a full-stack pong game.
+  - Finished the last project at Hive, creating a full-stack pong game.<br>
   - Currently working on a portfolio website, a game on Unity and making a GameBoy emulator with a few graduated Hivers.
 </p>
 
